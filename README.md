@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on :- **Java DSA**
 
-- 🌱 I’m currently learning :- **Java || DSA || Front-End Developer**
+- 🌱 I’m currently learning :- **Java || DSA || Java Full Stack  Developer**
 
 - 💬 Ask me about :-  **HTML || CSS || JAVA || JAVASCRIPT**
 
